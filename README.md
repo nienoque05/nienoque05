@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-ara%C3%BAjo-26a78317a/)
 
 
-![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=nienoque05&show_icons=true&theme=tokyonight)
+
 
 ### Tecnologias
 
